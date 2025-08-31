@@ -15,7 +15,6 @@ class Solution {
             if(la[i]==ra[i]){
                 return i;
             }
-        }
-        return -1;
+        }return -1;
     }
 }
